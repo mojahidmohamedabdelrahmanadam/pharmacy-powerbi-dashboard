@@ -14,6 +14,7 @@ Dashboard لتحليل:
 
 ## Preview
 (ضع صورة للداشبورد)
+<img width="595" height="331" alt="image" src="https://github.com/user-attachments/assets/b9717cc0-b1d7-4ed8-9d68-f54b617f457e" />
 
 ## Author
 Mojahid Mohamed
